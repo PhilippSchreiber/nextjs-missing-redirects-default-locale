@@ -8,7 +8,6 @@ export const slugPages = {
             de: 'Das ist der deutsche Inhalt für die Index-Seite',
             en: 'This is the English content for Index Page'
         },
-        ssg: true,
     },
     test1: {
         title: {
