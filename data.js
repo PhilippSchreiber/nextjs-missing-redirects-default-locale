@@ -19,7 +19,6 @@ export const slugPages = {
             de: 'Das ist der deutsche Inhalt für Seite 1',
             en: 'This is the English content for Page 1'
         },
-        ssg: true,
     },
     test2: {
         title: {
@@ -30,7 +29,6 @@ export const slugPages = {
             de: 'Das ist der deutsche Inhalt für Seite 2',
             en: 'This is the English content for Page 2'
         },
-        ssg: true,
     },
     test3: {
         title: {
@@ -41,7 +39,6 @@ export const slugPages = {
             de: 'Das ist der deutsche Inhalt für Seite 3',
             en: 'This is the English content for Page 3'
         },
-        ssg: false,
     }
 };
 
